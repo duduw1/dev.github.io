@@ -51,66 +51,49 @@
     <div id="resultado"></div>
 
     <script>
-        async function escolherDestino() {
-            // Pega o valor digitado no campo de texto
-            const destino = document.getElementById('destino').value;
+async function salvarDestinoNoGitHub(destino) {
+    const token = "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"; // Cole seu token aqui
+    const repo = "duduw1/Claro.github.io"; // Formato correto: "usuário/repositório"
+    const path = "destino.txt"; // Caminho do arquivo no repositório (na mesma pasta da página web)
 
-            // Verifica se o campo não está vazio
-            if (destino.trim() === "") {
-                alert("Por favor, digite um destino!");
-                return;
-            }
+    try {
+        // Verifica se o arquivo já existe
+        const response = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
+            headers: {
+                Authorization: `token ${token}`,
+            },
+        });
 
-            // Exibe o destino escolhido na tela
-            document.getElementById('resultado').innerHTML = `Você escolheu passear para: <strong>${destino}</strong>, uma pena que está tão caro para viajar!`;
-
-            // Salva o destino no GitHub
-            await salvarDestinoNoGitHub(destino);
+        let sha = null;
+        if (response.ok) {
+            const data = await response.json();
+            sha = data.sha; // Pega o SHA do arquivo existente
         }
 
-        async function salvarDestinoNoGitHub(destino) {
-            const token = "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"; // Cole seu token aqui
-            const repo = "duduw1/Claro.github.io"; // Formato correto: "usuário/repositório"
-            const path = "site/destino.txt"; // Caminho do arquivo no repositório
+        // Cria ou atualiza o arquivo
+        const content = btoa(`${destino}\n`); // Converte o conteúdo para base64 (apenas o destino)
+        const updateResponse = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
+            method: 'PUT',
+            headers: {
+                Authorization: `token ${token}`,
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                message: "Atualizando destino escolhido", // Mensagem do commit
+                content: content, // Conteúdo do arquivo em base64
+                sha: sha, // Se o arquivo já existe, passa o SHA para atualizar
+            }),
+        });
 
-            try {
-                // Verifica se o arquivo já existe
-                const response = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
-                    headers: {
-                        Authorization: `token ${token}`,
-                    },
-                });
-
-                let sha = null;
-                if (response.ok) {
-                    const data = await response.json();
-                    sha = data.sha; // Pega o SHA do arquivo existente
-                }
-
-                // Cria ou atualiza o arquivo
-                const content = btoa(`Destino: ${destino}\n`); // Converte o conteúdo para base64
-                const updateResponse = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
-                    method: 'PUT',
-                    headers: {
-                        Authorization: `token ${token}`,
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify({
-                        message: "Adicionando destino", // Mensagem do commit
-                        content: content, // Conteúdo do arquivo em base64
-                        sha: sha, // Se o arquivo já existe, passa o SHA para atualizar
-                    }),
-                });
-
-                if (updateResponse.ok) {
-                    alert("Destino salvo no GitHub!");
-                } else {
-                    alert("Erro ao salvar o destino.");
-                }
-            } catch (error) {
-                alert("Erro na requisição: " + error.message);
-            }
+        if (updateResponse.ok) {
+            alert("Destino salvo no GitHub!");
+        } else {
+            alert("Erro ao salvar o destino.");
         }
+    } catch (error) {
+        alert("Erro na requisição: " + error.message);
+    }
+}
     </script>
 
 </body>
