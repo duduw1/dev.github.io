@@ -52,12 +52,12 @@
 
     <script>
 async function salvarDestinoNoGitHub(destino) {
-    const token = "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"; // Cole seu token aqui
-    const repo = "duduw1/Claro.github.io"; // Formato correto: "usuário/repositório"
-    const path = "destino.txt"; // Caminho do arquivo no repositório (na mesma pasta da página web)
+    const token = "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";
+    const repo = "duduw1/Claro.github.io";
+    const path = "destino.txt";
 
     try {
-        // Verifica se o arquivo já existe
+        console.log("Destino a ser salvo:", destino); // Adicionado para depuração
         const response = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
             headers: {
                 Authorization: `token ${token}`,
@@ -67,11 +67,11 @@ async function salvarDestinoNoGitHub(destino) {
         let sha = null;
         if (response.ok) {
             const data = await response.json();
-            sha = data.sha; // Pega o SHA do arquivo existente
+            sha = data.sha;
+            console.log("SHA do arquivo:", sha); // Adicionado para depuração
         }
 
-        // Cria ou atualiza o arquivo
-        const content = btoa(`${destino}\n`); // Converte o conteúdo para base64 (apenas o destino)
+        const content = btoa(`${destino}\n`);
         const updateResponse = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
             method: 'PUT',
             headers: {
@@ -79,9 +79,9 @@ async function salvarDestinoNoGitHub(destino) {
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-                message: "Atualizando destino escolhido", // Mensagem do commit
-                content: content, // Conteúdo do arquivo em base64
-                sha: sha, // Se o arquivo já existe, passa o SHA para atualizar
+                message: "Atualizando destino escolhido",
+                content: content,
+                sha: sha,
             }),
         });
 
