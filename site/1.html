@@ -44,20 +44,20 @@
 <body>
 
     <h1>Para onde você deseja passear?</h1>
-    <input type="text" id="destino" placeholder="Digite o destino...">
+    <input type="text" id="destinos" placeholder="Digite o destinos...">
     <br>
-    <button onclick="escolherDestino()">Confirmar</button>
+    <button onclick="escolherdestinos()">Confirmar</button>
 
     <div id="resultado"></div>
 
     <script>
-async function salvarDestinoNoGitHub(destino) {
+async function salvardestinosNoGitHub(destinos) {
     const token = "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";
     const repo = "duduw1/Claro.github.io";
-    const path = "destino.txt";
+    const path = "destinos.txt";
 
     try {
-        console.log("Destino a ser salvo:", destino); // Adicionado para depuração
+        console.log("destinos a ser salvo:", destinos); // Adicionado para depuração
         const response = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
             headers: {
                 Authorization: `token ${token}`,
@@ -71,7 +71,7 @@ async function salvarDestinoNoGitHub(destino) {
             console.log("SHA do arquivo:", sha); // Adicionado para depuração
         }
 
-        const content = btoa(`${destino}\n`);
+        const content = btoa(`${destinos}\n`);
         const updateResponse = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
             method: 'PUT',
             headers: {
@@ -79,16 +79,16 @@ async function salvarDestinoNoGitHub(destino) {
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-                message: "Atualizando destino escolhido",
+                message: "Atualizando destinos escolhido",
                 content: content,
                 sha: sha,
             }),
         });
 
         if (updateResponse.ok) {
-            alert("Destino salvo no GitHub!");
+            alert("destinos salvo no GitHub!");
         } else {
-            alert("Erro ao salvar o destino.");
+            alert("Erro ao salvar o destinos.");
         }
     } catch (error) {
         alert("Erro na requisição: " + error.message);
