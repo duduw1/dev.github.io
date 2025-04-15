@@ -32,7 +32,7 @@
 - 📧 **Email:** robsontigm@gmail.com
 - 💼 **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/seu-perfil)
 - 🐦 **Twitter:** [Meu Twitter](https://twitter.com/seu-perfil)
-- 📸 **Instagram:** [Meu Instagram](https://instagram.com/seu-perfil)
+- 📸 **Instagram:** [Meu Instagram]([https://instagram.com/seu-perfil](https://www.instagram.com/duduw1/))
 
 ## Visitas ao Perfil
 ![Visitas](https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat)
