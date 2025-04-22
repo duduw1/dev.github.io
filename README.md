@@ -24,15 +24,15 @@
 - 🔧 **[Nome do Projeto 3](link-do-projeto):** Breve descrição do projeto.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dudduw1&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=radical)
 
 ## Contato
 - 📧 **Email:** robsontigm@gmail.com
 - 💼 **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/seu-perfil)
 - 🐦 **Twitter:** [Meu Twitter](https://twitter.com/seu-perfil)
-- 📸 **Instagram:** [Meu Instagram]([https://instagram.com/seu-perfil](https://www.instagram.com/duduw1/)
+- 📸 **Instagram:** [Meu Instagram]([[https://instagram.com/duduw1/])
 
 ## Visitas ao Perfil
 ![Visitas](https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat)
