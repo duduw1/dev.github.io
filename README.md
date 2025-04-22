@@ -24,7 +24,7 @@
 - 🔧 **[Nome do Projeto 3](link-do-projeto):** Breve descrição do projeto.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dudduw1&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=radical)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=radical)
 
