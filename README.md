@@ -1,7 +1,7 @@
 # Olá, eu sou Robson! 👋
 
 ## Sobre Mim
-- � **Idade:** [Sua Idade]
+<!--- � **Idade:** [Sua Idade] -->
 - 🌍 **Localização:** Matozinhos, Brasil
 - 💼 **Profissão:** Tec. Informatica
 - 🎓 **Formação:** Enge de Computação Puc Minas
@@ -31,8 +31,8 @@
 ## Contato
 - 📧 **Email:** robsontigm@gmail.com
 - 💼 **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/seu-perfil)
-- 🐦 **Twitter:** [Meu Twitter](https://twitter.com/seu-perfil)
-- 📸 **Instagram:** [Meu Instagram](https://instagram.com/duduw1/)
+- 🐦 **Twitter:** [Meu Twitter](https://twitter.com/duduw1)
+- 📸 **Instagram:** [Meu Instaram](https://instagram.com/duduw1/) 
 -  🔗 **Links:** [Divulação](linktr.ee/duduw1)
 - 🛒 **Loja:**  [Shopee](https://shopee.com.br/shop/216069588)
 ## Visitas ao Perfil
