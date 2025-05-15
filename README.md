@@ -3,9 +3,9 @@
 ## Sobre Mim
 <!--- � **Idade:** [Sua Idade] -->
 - 🌍 **Localização:** Matozinhos, Brasil
-- 💼 **Profissão:** Tec. Informatica
-- 🎓 **Formação:** Enge de Computação Puc Minas
-- 🚀 **Hobbies:** Programar, ler, jogar, andar de bike, Jiu-jitsu
+- 💼 **Profissão:** Técnico Informatica
+- 🎓 **Formação:** Engenharia de Computação Puc Minas
+- 🚀 **Hobbies:** Programar, ler, jogar, andar de bike, Jiu-jitsu (não necessariamente nessa orde) 
 
 ## Habilidades Técnicas
 - 💻 **Linguagens de Programação:** 
