@@ -1,9 +1,0 @@
-pagina:
-  titulo: "Aceitar Passear"
-  pergunta: "Você aceita passear?"
-  botoes:
-    sim: "Sim"
-    nao: "Não"
-  mensagens:
-    sucesso: "Ótimo! Vamos passear!"
-    erro: "Erro: Você precisa aceitar para continuar!"
