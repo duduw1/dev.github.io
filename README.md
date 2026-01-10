@@ -20,17 +20,16 @@
 
 ## Projetos Destacados
 - 🏆 **[eCommunity](https://github.com/duduw1/ecommunity2):** Plataforma de e-commerce e comunidade.
-- 🎨 **[Diagnostico de Esteatose Hepatica em_Exames de Ultrassom](https://github.com/duduw1/pai-figado):** Estudo de imagem para encontrar doenças no fígado usando técnicas de Análise de Imagens.
+- 🎨 **[Diagnóstico de Esteatose Hepática em Exames de Ultrassom](https://github.com/duduw1/pai-figado):** Estudo de imagem para encontrar doenças no fígado usando técnicas de Análise de Imagens.
 - 🔧 **[Knapsack 0-1](https://github.com/duduw1/Tp-PAA_Knapsack-0-1):** Implementação do problema da mochila (Knapsack 0-1) para a disciplina de Projeto e Análise de Algoritmos.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=radical)
+[![Estatísticas do GitHub de duduw1](https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=radical)](https://github.com/duduw1)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=radical)](https://github.com/duduw1)
 
 ## Contato
 - 📧 **Email:** robsontigm@gmail.com
-- 💼 **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/seu-perfil) <!-- Lembre-se de substituir 'seu-perfil' pelo seu usuário -->
+- 💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/robson-duarte-vicente-aa096634/)
 - 🐦 **Twitter:** [Meu Twitter](https://twitter.com/duduw1)
 - 📸 **Instagram:** [Meu Instagram](https://instagram.com/duduw1/) 
 -  🔗 **Links:** [Divulgação](https://linktr.ee/duduw1)
