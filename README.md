@@ -24,8 +24,8 @@
 - 🔧 **[Knapsack 0-1](https://github.com/duduw1/Tp-PAA_Knapsack-0-1):** Implementação do problema da mochila (Knapsack 0-1) para a disciplina de Projeto e Análise de Algoritmos.
 
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub de duduw1](https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=radical)](https://github.com/duduw1)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=radical)](https://github.com/duduw1)
+![Estatísticas do GitHub](generated/stats.svg)
+![Linguagens Mais Usadas](generated/top-langs.svg)
 
 ## Contato
 - 📧 **Email:** robsontigm@gmail.com

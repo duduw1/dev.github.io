@@ -1,0 +1,43 @@
+name: GitHub Stats Updater
+
+on:
+  schedule:
+    # Runs every 8 hours
+    - cron: '0 */8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      # Generate Stats Card
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          username: duduw1
+          show_icons: true
+          theme: dracula
+          cache_seconds: 86400
+          # Output to a file in the "generated" folder
+          filename: generated/stats.svg
+
+      # Generate Top Langs Card
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          username: duduw1
+          layout: compact
+          theme: dracula
+          cache_seconds: 86400
+          # Output to a file in the "generated" folder
+          filename: generated/top-langs.svg
+
+      # Commit and push the generated files
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update GitHub stats"
+          file_pattern: generated/*.svg
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
