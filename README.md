@@ -1,27 +1,27 @@
 # Olá, eu sou Robson! 👋
 
 ## Sobre Mim
-<!--- � **Idade:** [Sua Idade] -->
 - 🌍 **Localização:** Matozinhos, Brasil
-- 💼 **Profissão:** Técnico Informatica
-- 🎓 **Formação:** Engenharia de Computação Puc Minas
-- 🚀 **Hobbies:** Programar, ler, jogar, andar de bike, Jiu-jitsu (não necessariamente nessa orde) 
+- 💼 **Profissão:** Técnico em Informática
+- 🎓 **Formação:** Cursando Engenharia de Computação na PUC Minas
+- 🚀 **Hobbies:** Programar, ler, jogar, andar de bike e praticar Jiu-jitsu (não necessariamente nessa ordem).
 
 ## Habilidades Técnicas
-- 💻 **Linguagens de Programação:** 
+- 💻 **Linguagens e Frameworks:** 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- 🧠 **Áreas de Conhecimento:** Análise de Dados, Análise de Imagens
 - 🛠️ **Ferramentas e Tecnologias:**
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Projetos Destacados
-- 🏆 **[Nome do Projeto 1](link-do-projeto):** Breve descrição do projeto.
-- 🎨 **[Nome do Projeto 2](link-do-projeto):** Breve descrição do projeto.
-- 🔧 **[Nome do Projeto 3](link-do-projeto):** Breve descrição do projeto.
+- 🏆 **[eCommunity](https://github.com/duduw1/ecommunity2):** Plataforma de e-commerce e comunidade.
+- 🎨 **[Diagnostico de Esteatose Hepatica em_Exames de Ultrassom](https://github.com/duduw1/pai-figado):** Estudo de imagem para encontrar doenças no fígado usando técnicas de Análise de Imagens.
+- 🔧 **[Knapsack 0-1](https://github.com/duduw1/Tp-PAA_Knapsack-0-1):** Implementação do problema da mochila (Knapsack 0-1) para a disciplina de Projeto e Análise de Algoritmos.
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=radical)
@@ -30,10 +30,11 @@
 
 ## Contato
 - 📧 **Email:** robsontigm@gmail.com
-- 💼 **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/seu-perfil)
+- 💼 **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/seu-perfil) <!-- Lembre-se de substituir 'seu-perfil' pelo seu usuário -->
 - 🐦 **Twitter:** [Meu Twitter](https://twitter.com/duduw1)
-- 📸 **Instagram:** [Meu Instaram](https://instagram.com/duduw1/) 
--  🔗 **Links:** [Divulação](linktr.ee/duduw1)
+- 📸 **Instagram:** [Meu Instagram](https://instagram.com/duduw1/) 
+-  🔗 **Links:** [Divulgação](https://linktr.ee/duduw1)
 - 🛒 **Loja:**  [Shopee](https://shopee.com.br/shop/216069588)
+
 ## Visitas ao Perfil
-![Visitas](https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat)
+![Visitas](https://komarev.com/ghpvc/?username=duduw1&color=blue&style=flat)
