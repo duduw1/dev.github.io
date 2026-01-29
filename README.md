@@ -24,18 +24,24 @@
 - 🔧 **[Knapsack 0-1](https://github.com/duduw1/Tp-PAA_Knapsack-0-1):** Implementação do problema da mochila (Knapsack 0-1) para a disciplina de Projeto e Análise de Algoritmos.
 
 ## Estatísticas do GitHub
-## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="192px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duduw1&theme=dracula" alt="GitHub Streak" height="192px" />
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=dracula&count_private=true&hide_border=false" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&hide_border=false&langs_count=8" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&hide_langs_border=true" alt="Linguagens mais usadas" height="165px" />
+<p align="center">
+  <img width="96.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=duduw1&theme=dracula&hide_border=false" />
+</p>
 
-### 📈 Atividade
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duduw1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+### 🏆 Contribuições nos Repositórios
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duduw1&theme=dracula" width="96.5%" />
+</p>
 ## Contato
 - 📧 **Email:** robsontigm@gmail.com
 - 💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/robson-duarte-vicente-aa096634/)
