@@ -24,8 +24,17 @@
 - 🔧 **[Knapsack 0-1](https://github.com/duduw1/Tp-PAA_Knapsack-0-1):** Implementação do problema da mochila (Knapsack 0-1) para a disciplina de Projeto e Análise de Algoritmos.
 
 ## Estatísticas do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="192px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duduw1&theme=dracula" alt="GitHub Streak" height="192px" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&hide_langs_border=true" alt="Linguagens mais usadas" height="165px" />
+
+### 📈 Atividade
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duduw1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contato
 - 📧 **Email:** robsontigm@gmail.com
