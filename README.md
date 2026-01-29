@@ -42,6 +42,12 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duduw1&theme=dracula" width="96.5%" />
 </p>
+
+## 🐍 Jogo da Cobrinha (Contribuições)
+
+![Snake animation](https://github.com/duduw1/duduw1/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Contato
 - 📧 **Email:** robsontigm@gmail.com
 - 💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/robson-duarte-vicente-aa096634/)
