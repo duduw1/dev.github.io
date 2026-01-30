@@ -25,22 +25,16 @@
 
 ## Estatísticas do GitHub
 
+## 📊 Minhas Estatísticas Acadêmicas e de Dev
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&langs_count=8&card_width=400" />
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=duduw1&show_icons=true&theme=dracula&count_private=true&hide_border=false" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&hide_border=false&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="96.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=duduw1&theme=dracula&hide_border=false" />
-</p>
-
----
-
-### 🏆 Contribuições nos Repositórios
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duduw1&theme=dracula" width="96.5%" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duduw1&theme=dracula" />
 </p>
 
 ## 🐍 Jogo da Cobrinha (Contribuições)
