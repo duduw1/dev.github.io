@@ -25,12 +25,8 @@
 
 ## Estatísticas do GitHub
 
-## 📊 Minhas Estatísticas Acadêmicas e de Dev
-
-## 📊 Minhas Estatísticas
-
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&langs_count=8&hide_border=false" />
+  <img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&langs_count=8" />
 </p>
 
 <p align="center">
