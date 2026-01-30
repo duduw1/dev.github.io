@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - 🌍 **Localização:** Matozinhos, Brasil
-- 💼 **Profissão:** Técnico em Informática
+- 💼 **Profissão:** Técnico em Informática, mas quero migrar para dev, em busca de estaágio
 - 🎓 **Formação:** Cursando Engenharia de Computação na PUC Minas
 - 🚀 **Hobbies:** Programar, ler, jogar, andar de bike e praticar Jiu-jitsu (não necessariamente nessa ordem).
 
@@ -25,10 +25,7 @@
 
 ## Estatísticas do GitHub
 
-<p>
-  <img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&langs_count=8" />
-</p>
-
+  <img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&langs_count=8"  alt=""/>
 
 
 ## 🐍 Jogo da Cobrinha (Contribuições)
