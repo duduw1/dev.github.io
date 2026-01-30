@@ -25,13 +25,11 @@
 
 ## Estatísticas do GitHub
 
-<p align="center">
+<p>
   <img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&langs_count=8" />
 </p>
 
-<p align="center">
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=duduw1&theme=dracula" />
-</p>
+
 
 ## 🐍 Jogo da Cobrinha (Contribuições)
 
