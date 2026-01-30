@@ -45,8 +45,7 @@
 
 ## 🐍 Jogo da Cobrinha (Contribuições)
 
-![Snake animation](https://github.com/duduw1/duduw1/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/duduw1/dev.github.io/output/github-contribution-grid-snake-dark.svg)
 
 ## Contato
 - 📧 **Email:** robsontigm@gmail.com
