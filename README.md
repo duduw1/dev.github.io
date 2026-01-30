@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - 🌍 **Localização:** Matozinhos, Brasil
-- 💼 **Profissão:** Técnico em Informática, mas quero migrar para dev, em busca de estaágio
+- 💼 **Profissão:** Técnico em Informática -> mas quero migrar para dev -> em busca de estágio
 - 🎓 **Formação:** Cursando Engenharia de Computação na PUC Minas
 - 🚀 **Hobbies:** Programar, ler, jogar, andar de bike e praticar Jiu-jitsu (não necessariamente nessa ordem).
 
