@@ -27,7 +27,18 @@
 
 ## 📊 Minhas Estatísticas Acadêmicas e de Dev
 
-<img src="https://metrics.lecoq.io/duduw1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" />
+## 📊 Minhas Estatísticas
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=duduw1&show_icons=true&theme=dracula&count_private=true" />
+
+  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=duduw1&theme=dracula&layout=donut&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=duduw1&theme=dracula&area=true" />
+</p>
+
 ## 🐍 Jogo da Cobrinha (Contribuições)
 
 ![Snake animation](https://raw.githubusercontent.com/duduw1/dev.github.io/output/github-contribution-grid-snake-dark.svg)
