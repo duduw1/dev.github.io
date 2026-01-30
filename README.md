@@ -29,15 +29,23 @@
 
 ## 📊 Minhas Estatísticas
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=duduw1&show_icons=true&theme=dracula&count_private=true" />
+## 🏆 Ranking de Linguagens
 
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=duduw1&theme=dracula&layout=donut&langs_count=8" />
+<p align="center">
+  <img src="https://metrics.lecoq.io/duduw1?template=classic&base=&languages=1&languages.limit=10&languages.sections=most-used&languages.details=percentage&languages.colors=github&theme=dracula" width="60%" />
+</p>
+
+---
+
+### 📈 Gráfico de Atividade
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duduw1&theme=dracula&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=duduw1&theme=dracula&area=true" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=duduw1&layout=compact&theme=dracula&langs_count=10" />
 </p>
+
 
 ## 🐍 Jogo da Cobrinha (Contribuições)
 
